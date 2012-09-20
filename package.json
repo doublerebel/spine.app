@@ -12,7 +12,7 @@
     "node": "*"
   },
   "dependencies" : {
-    "coffee-script" : "~1.2.0",
-    "hem" : "~0.1.8"
+    "coffee-script" : "git://github.com/jashkenas/coffee-script.git",
+    "hem" : "git://github.com/doublerebel/hem.git"
   }
 }
